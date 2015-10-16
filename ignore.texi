@@ -1,0 +1,14 @@
+@node Top
+@top ignore
+
+Multi line commnest.
+
+Before.
+
+@ignore
+Inside 1.
+
+Inside 2.
+@end ignore
+
+After
